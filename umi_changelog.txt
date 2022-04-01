@@ -1,0 +1,12 @@
+====================
+     2022-03-30    
+====================
+
+Changelogs:
+
+    - Initial public release
+
+Notice:
+
+    - Need CN Stable MIUI 12.5.11 firmware
+    - Does not include GMS
