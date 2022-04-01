@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1648633404,
+      "filename": "lineage-19.1-20220330-UNOFFICIAL-umi.zip",
+      "id": "845d55b9e21e94a96614600f3a31927dbc2ec414",
+      "romtype": "UNOFFICIAL",
+      "size": 1269027771,
+      "url": "https://github.com/chaptsand/android_device_xiaomi_umi/releases/download/lineage-19.1-2022-03-30/lineage-19.1-20220330-UNOFFICIAL-umi.zip",
+      "version": "19.1"
+    }
+  ]
+}
